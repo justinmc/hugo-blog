@@ -1,0 +1,13 @@
+baseurl = "http://replace-this-with-your-hugo-site.com/"
+languageCode = "en-us"
+title = "The blog of Justin McCandless"
+author = "Justin McCandless"
+
+[params]
+  logo      = "/images/logo.png"
+  copyright = "Justin McCandless. All rights reserved."
+  twitter   = "https://twitter.com/justinjmcc"
+  github    = "https://github.com/justinmc"
+  email     = "justinjmccandless@gmail.com"
+  analytics = "UA-12345678-9"
+
