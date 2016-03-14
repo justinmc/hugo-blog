@@ -1,0 +1,73 @@
+body {
+    background: #000000;
+    text-align: center;
+    color: #aaa;
+    font-family: Arial;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.tiles {
+    position: relative;
+    border: 1px #afafaf solid;
+}
+
+    .tile {
+        position: relative;
+        height: 16px;
+        width: 16px;
+        background: url('/assets/16x16_forest_2.gif');
+    }
+
+    .tile-selected {
+        position: absolute;
+        right: 0px;
+        border: 2px #000000 solid;
+        margin: 2px;
+    }
+
+    .tile-0 {
+        background-position: 0px 0px;
+    }
+    .tile-1 {
+        background-position: 16px 0px;
+    }
+    .tile-2 {
+        background-position: 0px 16px;
+    }
+    .tile-3 {
+        background-position: 16px 16px;
+    }
+
+table.mapmaker {
+    border-spacing: 0px;
+}
+
+.mapmaker td {
+    border: 1px black solid;
+}
+
+.controls {
+    color: #BBB;
+}
+ 
+#cr-stage { margin: 20px auto 0; }
+ 
+.bottom {
+    font-size: 12px;
+    color: #888;
+    margin-top: 50px;
+}
+ 
+.bottom a {
+    color: #AAA;
+}
+
+.hero-unit {
+    margin: 50px auto 0 auto;
+    width: 300px;
+}
+

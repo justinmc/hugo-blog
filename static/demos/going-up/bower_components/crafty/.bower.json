@@ -1,0 +1,14 @@
+{
+  "name": "crafty",
+  "homepage": "https://github.com/craftyjs/Crafty",
+  "version": "0.5.4",
+  "_release": "0.5.4",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.5.4",
+    "commit": "dce6d8434783756ba6f3cbf2a2c73961790cf827"
+  },
+  "_source": "git://github.com/craftyjs/Crafty.git",
+  "_target": "~0.5.4",
+  "_originalSource": "crafty"
+}

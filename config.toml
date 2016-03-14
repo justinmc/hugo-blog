@@ -1,12 +1,15 @@
 baseurl = "http://replace-this-with-your-hugo-site.com/"
 languageCode = "en-us"
-title = "The blog of Justin McCandless"
+title = "Justin McCandless"
 author = "Justin McCandless"
+disqusShortname = "justinmccandless"
 
 [params]
   logo      = "/images/logo.png"
+  description = "Computer science, engineering, travel"
   copyright = "Justin McCandless. All rights reserved."
   twitter   = "https://twitter.com/justinjmcc"
+  twitter_name   = "justinjmcc"
   github    = "https://github.com/justinmc"
   email     = "justinjmccandless@gmail.com"
   analytics = "UA-12345678-9"

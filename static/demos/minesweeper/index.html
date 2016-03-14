@@ -1,0 +1,140 @@
+<!doctype html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" manifest="manifest.appcache"> <!--<![endif]-->
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title></title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+        <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+        <link rel="stylesheet" href="styles/0e6033ba.main.css">
+        <script src="scripts/vendor/f7f27360.modernizr.js"></script>
+    </head>
+    <body>
+
+        <div id="container">
+            <div id="controls">
+                <img id="smiley" src="images/worried.svg">
+                <a href="#" id="mode-flag" class="button toggle">
+                    Flag
+                </a>
+                <a href="#" id="button-options" class="button">
+                    Options
+                </a>
+            </div>
+            <div id="menu">
+                <div id="menu-content">
+                    <h1>Super Responsive Minesweeper!</h1>
+                    Check out the code over at <a href="http://www.github.com/justinmc/SVG-Minesweeper" target="_blank">Github</a>
+                    <br><br>
+                    <div class="menu-content-body">
+                        <h2>Instructions</h2>
+                        <table id="menu-content-body-instructions">
+                            <tr>
+                                <td>Start a new game</td>
+                                <td>Click the face!</td>
+                            </tr>
+                            <tr>
+                                <td>Place a flag</td>
+                                <td>Click the Flag button, then click a tile<br>Or, right click a tile</td>
+                            </tr>
+                            <tr>
+                                <td>Reveal a tile</td>
+                                <td>Click a tile (when the flag button is off!)</td>
+                            </tr>
+                            <tr>
+                                <td>Reveal tiles around a satisfied tile</td>
+                                <td>Double click the satisfied tile</td>
+                            </tr>
+                        </table>
+                        <br><br>
+                    </div>
+                    <div class="menu-content-body">
+                        <h2>Settings</h2>
+                        <table id="menu-content-body-settings">
+                            <tr>
+                                <td>Number of rows</td>
+                                <td>
+                                    <select id="select-rows">
+                                        <option value="8">8</option>
+                                        <option value="9">9</option>
+                                        <option value="10">10</option>
+                                        <option value="11">11</option>
+                                        <option value="12">12</option>
+                                        <option value="13">13</option>
+                                        <option value="14">14</option>
+                                        <option value="15">15</option>
+                                        <option value="16">16</option>
+                                    </select>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>Number of columns</td>
+                                <td>
+                                    <select id="select-columns">
+                                        <option value="8">8</option>
+                                        <option value="9">9</option>
+                                        <option value="10">10</option>
+                                        <option value="11">11</option>
+                                        <option value="12">12</option>
+                                        <option value="13">13</option>
+                                        <option value="14">14</option>
+                                        <option value="15">15</option>
+                                        <option value="16">16</option>
+                                    </select>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>Number of mines</td>
+                                <td>
+                                    <select id="select-mines">
+                                        <option value="10">10</option>
+                                        <option value="11">11</option>
+                                        <option value="12">12</option>
+                                        <option value="13">13</option>
+                                        <option value="14">14</option>
+                                        <option value="15">15</option>
+                                        <option value="16">16</option>
+                                        <option value="17">17</option>
+                                        <option value="18">18</option>
+                                        <option value="19">19</option>
+                                        <option value="20">20</option>
+                                    </select>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>Cheat?</td>
+                                <td><input type="checkbox" id="cheat"></td>
+                            </tr>
+                        </table>
+                    </div>
+                    <br clear="all">
+                    <a href="#" id="button-accept">Accept and restart</a>
+                    |
+                    <a href="#" id="button-cancel">Cancel</a>
+                    <br><br>
+                </div>
+            </div>
+            <div id="board">
+                <!-- Main game SVG goes here -->
+            </div>
+        </div>
+
+        <!--[if lt IE 7]>
+            <p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p>
+        <![endif]-->
+
+        <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
+        <script>
+            var _gaq=[['_setAccount','UA-XXXXX-X'],['_trackPageview']];
+            (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
+            g.src='//www.google-analytics.com/ga.js';
+            s.parentNode.insertBefore(g,s)}(document,'script'));
+        </script>
+
+        <script data-main="scripts/30b9a403.main" src="bower_components/requirejs/require.js"></script>
+</body>
+</html>
