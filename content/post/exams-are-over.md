@@ -4,6 +4,9 @@ date = "2008-10-10T18:04:23-07:00"
 draft = false
 title = "Exams Are Over"
 pic = ""
+aliases = [
+  "/blog/Exams+Are+Over"
+]
 +++
 
 <p>I just finished my last midterm (for awhile) yesterday, so that equals a bit more free time for me, which     equals a bit more cartooness for <a href="http://www.markupcartoons.com/"> Markups </a>.  Today we have     all of my pent up anger against my Blackberry Curve manifested as a cartoon.  It's a great phone, and I love     it, but it does tend to freeze, and lag, and turn off randomly in the middle of phone calls occasionally.     I really can't see myself going back to a dumbphone, though, so yeah, it's a complicated relationship.</p>

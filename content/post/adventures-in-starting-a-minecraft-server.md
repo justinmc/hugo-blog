@@ -4,6 +4,9 @@ date = "2010-10-16T14:21:50-07:00"
 draft = false
 title = "Adventures in Starting a Minecraft Server"
 pic = ""
+aliases = [
+  "/blog/Adventures+in+Starting+a+Minecraft+Server"
+]
 +++
 
 <p>Ever since I started playing <a href="http://www.minecraft.net/">Minecraft</a>  at the end of the summer, I&nbsp;have wanted to start my own server.&nbsp;  Unfortunately, it's pretty much taken me this whole time to accomplish  that.&nbsp; So, I&nbsp;thought I'd post a small tutorial here in case anyone else  is having similar problems.</p>

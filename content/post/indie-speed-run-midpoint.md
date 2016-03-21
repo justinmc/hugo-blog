@@ -4,6 +4,9 @@ date = "2013-09-30T08:51:38-07:00"
 draft = false
 title = "Indie Speed Run Midpoint"
 pic = "/files/Screenshot from 2013-09-30 23:48:58.png"
+aliases = [
+  "/blog/Indie+Speed+Run+Midpoint"
+]
 +++
 
 <p>I'm just past the halfway point of my 48 hours for Indie Speed Run.  While I'm definitely still as frantically behind as usual for a game jam, I feel so much more comfortable than my <a href="http://www.justinmccandless.com/blog/Ludum+Dare+27+this+Weekend">previous experiences with Ludum Dare</a>.</p>

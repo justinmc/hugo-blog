@@ -4,6 +4,9 @@ date = "2009-08-09T16:04:23-07:00"
 draft = false
 title = "Finca: At a Ranch in the Mountains of Ecuador"
 pic = "/files/CIMG2274.png"
+aliases = [
+  "/blog/Finca:+At+a+Ranch+in+the+Mountains+of+Ecuador"
+]
 +++
 
 <p>Today is the Ecuadorian independence day, which I didn't actually know about until yesterday, but apparently it means that I get the day off work.  At least I think so, no body really ever told me anything about it, though I do remember on Friday somebody asking me to help with  something Tuesday (strangely not Monday).  So, I'm staying home.</p>

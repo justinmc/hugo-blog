@@ -4,6 +4,9 @@ date = "2012-09-29T21:01:01-07:00"
 draft = false
 title = "Charge Your Developers or Pay Your Developers?  App.net Developer Incentive Program"
 pic = "/files/appnet.png"
+aliases = [
+  "/blog/Charge+Your+Developers+or+Pay+Your+Developers?++App.net+Developer+Incentive+Program"
+]
 +++
 
 <a href="http://www.app.net">App.net</a>, the $10/month social network initiative by Dalton Caldwell, recently <a href="http://blog.app.net/blog/2012/09/27/announcing-the-app-net-developer-incentive-program/">announced its developer incentive program</a>, which pays developers on their platform based on a usefulness survey given to users.  This is once again in stark contrast to the other big players, whose developers mostly end up paying them for API bandwidth.  Is this step in the right direction for creating the open social platform that users and developers are looking for?  If it's at the scale currently announced, it will probably end up being more short term developer bait than a large-scale business model change.

@@ -4,6 +4,9 @@ date = "2013-10-10T00:39:10-07:00"
 draft = false
 title = "Indie Speed Ran - Lessons Learned from My First Game Jams"
 pic = "/files/Screenshot from 2013-10-10 11:21:12.png"
+aliases = [
+  "/blog/Indie+Speed+Ran+-+Lessons+Learned+from+My+First+Game+Jams"
+]
 +++
 
 <p>I've finished my entry to Indie Speed Run 2013, it's called Going Up and it's <a href="http://www.escapistmagazine.com/content/indie-speed-run/?game=680">on The Escapist right now</a>! (And here's a <a href="http://justinmccandless.com/demos/going-up/index.html">version I'm hosting myself</a> since the Escapist site is causing the game to have problems)</p>

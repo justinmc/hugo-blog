@@ -4,6 +4,9 @@ date = "2013-10-16T21:24:06-07:00"
 draft = false
 title = "JavaScript's function.bind and Why You Should Know it Exists"
 pic = "/files/Screenshot from 2013-10-17 11:24:16.png"
+aliases = [
+  "/blog/JavaScript's+function.bind+and+Why+You+Should+Know+it+Exists"
+]
 +++
 
 <p>I was getting really carried away with fancy JavaScript objects while working on a side project recently, and I ran into a difficult problem.  I needed an object to produce instances of any given object with any initial parameters.  I hit a few obvious dead ends before discovering something I was surprised I hadn't used before: <code>function.bind</code>.</p>

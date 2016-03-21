@@ -4,6 +4,9 @@ date = "2014-12-13T17:28:26-08:00"
 draft = false
 title = "Formatting Currency in Javascript"
 pic = "/files/J$.png"
+aliases = [
+  "/blog/Formatting+Currency+in+Javascript"
+]
 +++
 
 <p>I just had more trouble than I should have trying to figure out how to properly format currency, so it's going up as a blog post.  <code>Intl</code>, the new feature available in modern browsers for internationaliztion, is actually really great for localizing and formatting things like currency, but here's to hoping this saves someone time digging through the spec.</p>

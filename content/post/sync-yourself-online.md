@@ -4,6 +4,9 @@ date = "2009-08-02T18:04:23-07:00"
 draft = false
 title = "Sync Yourself Online"
 pic = ""
+aliases = [
+  "/blog/Sync+Yourself+Online"
+]
 +++
 
 <p>

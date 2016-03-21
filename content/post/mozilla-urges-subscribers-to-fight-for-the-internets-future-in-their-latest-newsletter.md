@@ -4,6 +4,9 @@ date = "2011-11-16T09:34:11-08:00"
 draft = false
 title = "Mozilla Urges Subscribers to \"Fight for the Internet's Future\" in Their Latest Newsletter"
 pic = ""
+aliases = [
+  "/blog/Mozilla+Urges+Subscribers+to+\"Fight+for+the+Internet's+Future\"+in+Their+Latest+Newsletter"
+]
 +++
 
 <p>

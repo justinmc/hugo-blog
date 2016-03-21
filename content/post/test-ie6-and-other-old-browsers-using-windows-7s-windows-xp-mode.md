@@ -4,6 +4,9 @@ date = "2012-06-18T07:26:48-07:00"
 draft = false
 title = "Test IE6 and Other Old Browsers Using Windows 7's Windows XP Mode"
 pic = "/files/browser_logos.png"
+aliases = [
+  "/blog/Test+IE6+and+Other+Old+Browsers+Using+Windows+7's+Windows+XP+Mode"
+]
 +++
 
 I'm always testing sites in different browsers, and besides the expected

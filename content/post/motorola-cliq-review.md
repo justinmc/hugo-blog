@@ -4,6 +4,9 @@ date = "2010-03-27T07:46:40-07:00"
 draft = false
 title = "Motorola CLIQ Review"
 pic = ""
+aliases = [
+  "/blog/Motorola+CLIQ+Review"
+]
 +++
 
 <p>I've been using a Motorola CLIQ for the past two months or so, coming off of my previous Blackberry Curve, so I thought I'd give my opinions on the phone.Â  I'm on T Mobile, so I'll be giving my opinions from that network.

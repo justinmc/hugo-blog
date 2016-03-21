@@ -4,6 +4,9 @@ date = "2010-10-10T10:54:16-07:00"
 draft = false
 title = "Scrolling Image Bar"
 pic = ""
+aliases = [
+  "/blog/Scrolling+Image+Bar"
+]
 +++
 
 <p>

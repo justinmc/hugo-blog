@@ -4,6 +4,9 @@ date = "2016-02-27T22:08:27-08:00"
 draft = false
 title = "Setting up HTTPS on Node for Free with Let's Encrypt"
 pic = "/files/letsencrypt-logo-horizontal-small.png"
+aliases = [
+  "/blog/Setting+up+HTTPS+on+Node+for+Free+with+Let's+Encrypt"
+]
 +++
 
 <p>Given how vitally important running your site in HTTPS is, it's disappointing how high the barrier to entry is.  Some services like Heroku do make it easy to set up, but you will have to pay for that simplicity.</p>

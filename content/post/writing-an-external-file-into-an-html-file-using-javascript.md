@@ -4,6 +4,9 @@ date = "2009-07-09T16:04:23-07:00"
 draft = false
 title = "Writing an External File into an HTML File using Javascript"
 pic = ""
+aliases = [
+  "/blog/Writing+an+External+File+into+an+HTML+File+using+Javascript"
+]
 +++
 
 <p>

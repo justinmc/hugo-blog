@@ -4,6 +4,9 @@ date = "2012-08-02T18:21:13-07:00"
 draft = false
 title = "Getting a Very Simple Backbone.js Project Up and Running"
 pic = "/files/backbone.png"
+aliases = [
+  "/blog/Getting+a+Very+Simple+Backbone.js+Project+Up+and+Running"
+]
 +++
 
 <p>The other weekend I found myself feeling unsatisfied about the data management of a javascript based side project I'm working on, and I decided to take the day and get organized.  I wanted to set it up in an available framework, so I jumped on the opportunity to try out backbone.js since I had read about it previously.  In this article, I'll show the process of getting the most basic backbone.js setup just for organizing your data.

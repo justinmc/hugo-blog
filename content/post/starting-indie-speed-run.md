@@ -4,6 +4,9 @@ date = "2013-09-29T08:11:45-07:00"
 draft = false
 title = "Starting Indie Speed Run"
 pic = "/files/indiespeedrun.png"
+aliases = [
+  "/blog/Starting+Indie+Speed+Run"
+]
 +++
 
 <p>I'll be competing in <a href="http://www.indiespeedrun.com">Indie Speed Run</a> for the next 48 hours, so I wanted to keep track of my progress here on my blog.  After a very fun but very rookie time at Ludum Dare just a few weeks ago, I'm really hooked on building small games and hope to put something even cooler together this time.</p>

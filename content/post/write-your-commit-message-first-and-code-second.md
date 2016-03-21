@@ -4,6 +4,9 @@ date = "2014-08-03T11:08:45-07:00"
 draft = false
 title = "Write Your Commit Message First and Code Second"
 pic = "/files/blogCommitMessages.JPG"
+aliases = [
+  "/blog/Write+Your+Commit+Message+First+and+Code+Second"
+]
 +++
 
 <p>It hit me the other day at work.  I've been using git wrong all along.  The workflow for using version control shouldn't be to write a hacked together summary of all the code changes I just made every time I get the project in a sane state.  It should be to write a contract with myself describing the state of the project after some incremental improvement, and then to write that improvement.  How did I ever think otherwise?</p>

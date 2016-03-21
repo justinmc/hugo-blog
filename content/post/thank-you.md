@@ -4,6 +4,9 @@ date = "2009-07-27T09:00:00-07:00"
 draft = false
 title = "Thank You"
 pic = ""
+aliases = [
+  "/blog/Thank+You"
+]
 +++
 
 <p><style type="text/css">p { margin-bottom: 0.08in; }</style>

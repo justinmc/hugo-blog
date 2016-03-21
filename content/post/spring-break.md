@@ -4,6 +4,9 @@ date = "2010-02-11T23:33:34-08:00"
 draft = false
 title = "Spring Break"
 pic = ""
+aliases = [
+  "/blog/Spring+Break"
+]
 +++
 
 <p>I have officially finalized my plans for Spring Break, and I will be going to Guatemala.Â  The point of the trip is to work on setting up a solar power system for a school in a remote region of Guatemala.Â  I kind of randomly stumbled upon the trip, which is sponsored by a student organization here and a local nonprofit, and now I wound up deciding to go.

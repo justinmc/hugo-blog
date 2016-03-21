@@ -4,6 +4,9 @@ date = "2009-06-08T16:04:23-07:00"
 draft = false
 title = "Horseback Riding in Vilcabamba, Ecuador"
 pic = ""
+aliases = [
+  "/blog/Horseback+Riding+in+Vilcabamba,+Ecuador"
+]
 +++
 
 <p>

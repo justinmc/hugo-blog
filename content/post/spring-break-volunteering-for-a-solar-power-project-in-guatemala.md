@@ -4,6 +4,9 @@ date = "2010-03-14T04:15:00-07:00"
 draft = false
 title = "Spring Break Volunteering for a Solar Power Project in Guatemala"
 pic = ""
+aliases = [
+  "/blog/Spring+Break+Volunteering+for+a+Solar+Power+Project+in+Guatemala"
+]
 +++
 
 <p><style type="text/css">p { margin-bottom: 0.08in; }a:link {  }</style>

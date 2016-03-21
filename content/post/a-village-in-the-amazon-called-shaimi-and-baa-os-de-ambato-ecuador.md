@@ -4,6 +4,9 @@ date = "2009-06-29T16:04:23-07:00"
 draft = false
 title = "A Village in the Amazon Called Shaimi, and BaÃ±os de Ambato, Ecuador"
 pic = ""
+aliases = [
+  "/blog/A+Village+in+the+Amazon+Called+Shaimi,+and+BaÃ±os+de+Ambato,+Ecuador"
+]
 +++
 
 <p>

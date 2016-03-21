@@ -4,6 +4,9 @@ date = "2009-08-05T16:04:23-07:00"
 draft = false
 title = "PHP + SQL = FUN"
 pic = ""
+aliases = [
+  "/blog/PHP+++SQL+=+FUN"
+]
 +++
 
 <p>

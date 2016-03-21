@@ -4,6 +4,9 @@ date = "2014-10-12T18:56:12-07:00"
 draft = false
 title = "Announcing Mentorthing"
 pic = "/files/logo-biggish.png"
+aliases = [
+  "/blog/Announcing+Mentorthing"
+]
 +++
 
 <p>Today marks the soft launch of a project I've been working on with some friends called <a href="http://www.mentorthing.com/">Mentorthing</a>.  I work on a lot of side projects for fun and for a technical challenge, but this one I'm really hoping can make a difference for a few people.</p>

@@ -4,6 +4,9 @@ date = "2013-06-18T06:39:07-07:00"
 draft = false
 title = "Getting a Yeoman App Working on a New Machine after Cloning"
 pic = "/files/yeomanClone.png"
+aliases = [
+  "/blog/Getting+a+Yeoman+App+Working+on+a+New+Machine+after+Cloning"
+]
 +++
 
 <p>If you're working on a Yeoman app from a git repository, you won't be able to simply <code>git clone</code> and then start the Yeoman workflow.  There's a small amount of setup to do, so I thought I'd write that out here in a simple list for anyone that also goes through the process.</p>

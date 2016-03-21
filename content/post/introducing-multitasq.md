@@ -4,6 +4,9 @@ date = "2013-01-12T06:59:12-08:00"
 draft = false
 title = "Introducing Multitasq"
 pic = "/files/multitasqScreenshotSmall.png"
+aliases = [
+  "/blog/Introducing+Multitasq"
+]
 +++
 
 I've been working on this open source side project of mine for a bit, and I just <a href="https://developer.mozilla.org/en-US/demos/detail/multitasq">submitted it to Mozilla Demo Studio</a>, so I thought I'd make a quick post about it here.  I wanted to take a tried and true design, the simple notebook-paper-stuck-on-your-fridge task list that you've probably seen other apps replicate, and completely reimagine it using the web and HTML5.  The result still isn't much more than a concept, but I think it's a great example of something you can do with the web.  And it's enough to make me stop keeping track of my own tasks on paper at least.<br>

@@ -4,6 +4,9 @@ date = "2010-09-09T09:00:00-07:00"
 draft = false
 title = "Problems with the Site"
 pic = ""
+aliases = [
+  "/blog/Problems+with+the+Site"
+]
 +++
 
 <p>justinmccandless.com has been down for the last few weeks, and a good  amount of my entries are gone.&nbsp; This was due to domain.com, my  ex-hosting company, canceling my hosting while I was in Austria after a  failed payment due to a change of credit cards.&nbsp; This makes sense, but  they also permanently deleted my databases, which wasn't cool.</p>

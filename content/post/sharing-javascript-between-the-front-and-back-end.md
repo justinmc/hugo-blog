@@ -4,6 +4,9 @@ date = "2014-10-12T18:05:27-07:00"
 draft = false
 title = "Sharing JavaScript Between the Front and Back End"
 pic = "/files/frontback.png"
+aliases = [
+  "/blog/Sharing+JavaScript+Between+the+Front+and+Back+End"
+]
 +++
 
 <p>There are a lot of advantages to running Nodejs, but one that's not taken advantage of as much as it could be is sharing code between the front and back ends.  You're running the same language on both sides of the stack, so why rewrite code that's run on both?</p>

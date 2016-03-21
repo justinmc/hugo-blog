@@ -4,6 +4,9 @@ date = "2012-05-23T21:14:46-07:00"
 draft = false
 title = "confirm-link: An Easy and Elegant Way to Prompt the User to Confirm a Link Click"
 pic = "/files/Screenshot from 2012-06-19 23:22:27.png"
+aliases = [
+  "/blog/confirm-link:+An+Easy+and+Elegant+Way+to+Prompt+the+User+to+Confirm+a+Link+Click"
+]
 +++
 
 <p>

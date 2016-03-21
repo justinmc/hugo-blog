@@ -4,6 +4,9 @@ date = "2015-04-11T12:40:28-07:00"
 draft = false
 title = "SVG viewBox sandBox"
 pic = "/files/viewboxer.png"
+aliases = [
+  "/blog/SVG+viewBox+sandBox"
+]
 +++
 
 <p>Awhile back I wrote an <a href="http://justinmccandless.com/blog/Making+Sense+of+SVG+viewBox%27s+Madness">article about SVG viewBox</a> after being confused by it for so long.  Just recently I went back and wrote a live updating sandbox app in React that allows you to quickly play around with different viewBox setups and see the result instantly.</p>

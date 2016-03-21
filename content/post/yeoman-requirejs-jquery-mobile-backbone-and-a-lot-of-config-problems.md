@@ -4,6 +4,9 @@ date = "2013-03-18T08:19:56-07:00"
 draft = false
 title = "Yeoman, Requirejs, jQuery Mobile, Backbone, and a Lot of Config Problems"
 pic = "/files/front.png"
+aliases = [
+  "/blog/Yeoman,+Requirejs,+jQuery+Mobile,+Backbone,+and+a+Lot+of+Config+Problems"
+]
 +++
 
 <p>

@@ -4,6 +4,9 @@ date = "2012-12-04T07:09:05-08:00"
 draft = false
 title = "Open Source jQuery Carousel"
 pic = "/files/opencarousel_small.png"
+aliases = [
+  "/blog/Open+Source+jQuery+Carousel"
+]
 +++
 
 <p>

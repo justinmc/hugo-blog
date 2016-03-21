@@ -4,6 +4,9 @@ date = "2014-02-17T17:29:25-08:00"
 draft = false
 title = "Announcing Mathpx"
 pic = "/files/mathpxArticleBig.png"
+aliases = [
+  "/blog/Announcing+Mathpx"
+]
 +++
 
 <p>Ever since I worked for a startup building educational kids apps in China, I've been tossing around a few ideas about writing one of my own.  I may be biased as an engineer, but one of the main areas I perceive to be lacking both in the classroom and the app store is our ability to teach math.  <a href="http://mathpx.justinmccandless.com">Mathpx</a> is my new experiment to rethink the way we teach the very fundamentals of arithmetic.</p>

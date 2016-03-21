@@ -4,6 +4,9 @@ date = "2012-07-21T01:03:26-07:00"
 draft = false
 title = "More Less Overflow: Expand and Contract a Div"
 pic = "/files/morelessoverflow2.png"
+aliases = [
+  "/blog/More+Less+Overflow:+Expand+and+Contract+a+Div"
+]
 +++
 
 Here's a simple jQuery project I packaged up to provide a more/less button to expand and contract a div with lots of text.&nbsp; Yet another simple concept, but implemented very nicely and easy to reuse.<br>

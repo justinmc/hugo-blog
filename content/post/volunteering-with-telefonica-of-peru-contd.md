@@ -4,6 +4,9 @@ date = "2011-10-30T07:00:00-07:00"
 draft = false
 title = "Volunteering with Telefonica of Peru, cont'd"
 pic = ""
+aliases = [
+  "/blog/Volunteering+with+Telefonica+of+Peru,+cont'd"
+]
 +++
 
 

@@ -4,6 +4,9 @@ date = "2010-02-12T05:04:51-08:00"
 draft = false
 title = "Last Day in Loja"
 pic = ""
+aliases = [
+  "/blog/Last+Day+in+Loja"
+]
 +++
 
 <p>Today was my last full day in Loja.Â  That's kind of a bummer, but it was a pretty good day so I do feel like IÂ had a good conclusion.</p>

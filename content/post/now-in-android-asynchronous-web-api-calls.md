@@ -4,6 +4,9 @@ date = "2012-10-31T03:27:09-07:00"
 draft = false
 title = "Now in Android: Asynchronous Web API Calls"
 pic = "/files/android8bit.png"
+aliases = [
+  "/blog/Now+in+Android:+Asynchronous+Web+API+Calls"
+]
 +++
 
 <p>

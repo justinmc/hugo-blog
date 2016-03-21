@@ -4,6 +4,9 @@ date = "2013-08-24T03:11:43-07:00"
 draft = false
 title = "Ludum Dare 27 this Weekend"
 pic = "/files/ludumdare.png"
+aliases = [
+  "/blog/Ludum+Dare+27+this+Weekend"
+]
 +++
 
 <p>I'm attempting to throw together a game for the 27th <a href="http://www.ludumdare.com">Ludum Dare</a> game competition this weekend.  I'll be posting updates over <a href="http://www.ludumdare.com/compo/author/justinmc/">here</a> if you want a closer look.</p>

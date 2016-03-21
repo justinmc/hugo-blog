@@ -4,6 +4,9 @@ date = "2009-07-30T18:04:23-07:00"
 draft = false
 title = "Pictures of BaÃ±os de Ambato, Ecuador, and a Bit More"
 pic = ""
+aliases = [
+  "/blog/Pictures+of+BaÃ±os+de+Ambato,+Ecuador,+and+a+Bit+More"
+]
 +++
 
 <p>

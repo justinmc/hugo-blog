@@ -4,6 +4,9 @@ date = "2012-07-18T06:16:19-07:00"
 draft = false
 title = "Building in Sencha Touch 2"
 pic = "/files/sencha.jpg"
+aliases = [
+  "/blog/Building+in+Sencha+Touch+2"
+]
 +++
 
 Sencha released some big changes in their build process with

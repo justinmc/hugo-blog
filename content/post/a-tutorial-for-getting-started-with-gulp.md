@@ -4,6 +4,9 @@ date = "2014-02-23T16:50:45-08:00"
 draft = false
 title = "A Tutorial for Getting Started with Gulp"
 pic = "/files/shlurp.png"
+aliases = [
+  "/blog/A+Tutorial+for+Getting+Started+with+Gulp"
+]
 +++
 
 <p>Awhile back I wrote a <a href="http://www.justinmccandless.com/blog/A+Tutorial+for+Getting+Started+with+Grunt">tutorial covering the basics of Grunt</a>. Now that a new frontend build tool has entered the scene, I thought I'd take a look and see if I could write a simple guide for <a href="http://gulpjs.com/">Gulp</a> at the same level. This guide will take you from installation and getting set up through examples of real world build processes while laying out all of the tools out there to help you on the way.</p>

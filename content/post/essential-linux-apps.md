@@ -4,6 +4,9 @@ date = "2010-05-29T01:50:00-07:00"
 draft = false
 title = "Essential Linux Apps"
 pic = ""
+aliases = [
+  "/blog/Essential+Linux+Apps"
+]
 +++
 
 <p><style type="text/css">p { margin-bottom: 0.08in; }h1 { margin-bottom: 0.08in; }h1.western { font-family: "Liberation Serif",serif; }h1.cjk { font-family: "DejaVu Sans"; }h1.ctl { font-family: "DejaVu Sans"; }h2 { margin-bottom: 0.08in; }a:link {  }</style>

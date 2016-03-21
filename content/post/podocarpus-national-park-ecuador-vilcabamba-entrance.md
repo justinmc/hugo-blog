@@ -4,6 +4,9 @@ date = "2009-08-02T16:04:23-07:00"
 draft = false
 title = "Podocarpus National Park, Ecuador, Vilcabamba Entrance"
 pic = ""
+aliases = [
+  "/blog/Podocarpus+National+Park,+Ecuador,+Vilcabamba+Entrance"
+]
 +++
 
 <p>Last Saturday (25/07/09) I went hiking at Podocarpus, this time at the entrance located on the way to Vilcabamba.  I had already been to the San Francisco entrance and the Bombuscaro entrance in Zamora, so this was entrance 3/3 for me.  I went with &Aacute;ngel and Paola from Arcoiris, as well as the other intern at Arcoiris Audrey and her boyfriend.</p>

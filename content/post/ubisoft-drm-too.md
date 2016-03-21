@@ -4,6 +4,9 @@ date = "2008-10-16T18:04:23-07:00"
 draft = false
 title = "Ubisoft DRM too?"
 pic = ""
+aliases = [
+  "/blog/Ubisoft+DRM+too?"
+]
 +++
 
 <p>

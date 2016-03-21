@@ -4,6 +4,9 @@ date = "2014-02-09T11:02:28-08:00"
 draft = false
 title = "The Next Step for Crowd Funding"
 pic = "/files/crowdblur.jpg"
+aliases = [
+  "/blog/The+Next+Step+for+Crowd+Funding"
+]
 +++
 
 <p>Crowd funding has already worked wonders.  Inventors, artists, and companies with radical new ideas have all brought projects to life that never would have been possible a few years ago.  Sites like <a href="https://www.kickstarter.com/">Kickstarter</a> and <a href="http://www.indiegogo.com/">Indiegogo</a> have been hugely successful and even spun off several equity based crowd funding sites like <a href="https://www.crowdfunder.com/">Crowdfunder</a>.  Despite all this success, I believe that crowd funding has yet to reach its full potential.</p>

@@ -4,6 +4,9 @@ date = "2012-09-18T05:59:13-07:00"
 draft = false
 title = "Patching jQuery's Lack of SVG Support"
 pic = "/files/jquerysvg.png"
+aliases = [
+  "/blog/Patching+jQuery's+Lack+of+SVG+Support"
+]
 +++
 
 <p>jQuery has a lot of convenient functions for working with the DOM, but if 

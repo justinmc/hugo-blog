@@ -4,6 +4,9 @@ date = "2012-10-23T00:53:50-07:00"
 draft = false
 title = "Making API Calls in iOS"
 pic = "/files/xcode.png"
+aliases = [
+  "/blog/Making+API+Calls+in+iOS"
+]
 +++
 
 <p>

@@ -4,6 +4,9 @@ date = "2015-04-19T21:07:44-07:00"
 draft = false
 title = "Using ES6 Generators to Manage Dialog Flow in a Game"
 pic = "/files/dialoggame.png"
+aliases = [
+  "/blog/Using+ES6+Generators+to+Manage+Dialog+Flow+in+a+Game"
+]
 +++
 
 <p>Remember how great it was when you first started using promises to combat javascript callback hell?  Your code was much more concise, easier to understand, and didn't nest a million levels deep...</p>

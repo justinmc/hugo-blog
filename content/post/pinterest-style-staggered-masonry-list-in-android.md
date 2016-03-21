@@ -4,6 +4,9 @@ date = "2013-07-13T02:16:39-07:00"
 draft = false
 title = "Pinterest-Style Staggered Masonry List in Android"
 pic = "/files/masonry_small.png"
+aliases = [
+  "/blog/Pinterest-Style+Staggered+Masonry+List+in+Android"
+]
 +++
 
 <p>The more I work with native mobile code the more I miss HTML5.  I was recently trying to implement one of those Pinterest-like offset grids in an Android app, and while a beautiful open source library called <a href="http://masonry.desandro.com/">Masonry</a> exists to do this for Javascript, in Android there isn't anything quite as well accepted.</p>

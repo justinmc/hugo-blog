@@ -4,6 +4,9 @@ date = "2012-11-09T19:29:05-08:00"
 draft = false
 title = "Setting Up a Callback Function in Android"
 pic = "/files/android8bitcallback.png"
+aliases = [
+  "/blog/Setting+Up+a+Callback+Function+in+Android"
+]
 +++
 
 <p>

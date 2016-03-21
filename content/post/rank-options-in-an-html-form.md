@@ -4,6 +4,9 @@ date = "2012-01-05T03:23:53-08:00"
 draft = false
 title = "Rank Options in an HTML Form"
 pic = "/files/Screenshot from 2012-06-20 21:32:33.png"
+aliases = [
+  "/blog/Rank+Options+in+an+HTML+Form"
+]
 +++
 
 <br />code: <a href="https://github.com/justinmc/Rank-Form">http://github.com/justinmc/Rank-Form</a><br>

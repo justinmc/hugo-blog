@@ -4,6 +4,9 @@ date = "2016-03-12T22:48:42-08:00"
 draft = false
 title = "HTML5 Audio with React"
 pic = "/files/react audio.png"
+aliases = [
+  "/blog/HTML5+Audio+with+React"
+]
 +++
 
 <p>The HTML5 audio tag provides a great way to work with simple audio in a web app, but when you’re using React’s nice pattern in the rest of your app, it can be a pain to go back to messing directly with DOM objects.  The <a href="https://www.npmjs.com/package/react-audio-player">ReactAudioPlayer</a> module provides a thin wrapper to the audio tag that fits right into a React app.</p>

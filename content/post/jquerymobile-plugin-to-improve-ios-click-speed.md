@@ -4,6 +4,9 @@ date = "2012-10-23T01:26:02-07:00"
 draft = false
 title = "jQueryMobile Plugin to Improve iOS Click Speed"
 pic = "/files/jqm.png"
+aliases = [
+  "/blog/jQueryMobile+Plugin+to+Improve+iOS+Click+Speed"
+]
 +++
 
 <p>

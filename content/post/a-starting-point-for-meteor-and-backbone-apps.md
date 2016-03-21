@@ -4,6 +4,9 @@ date = "2013-04-05T02:16:04-07:00"
 draft = false
 title = "A Starting Point for Meteor and Backbone Apps"
 pic = "/files/miniverse.png"
+aliases = [
+  "/blog/A+Starting+Point+for+Meteor+and+Backbone+Apps"
+]
 +++
 
 <p><i>Update:</i>

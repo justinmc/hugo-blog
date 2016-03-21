@@ -4,6 +4,9 @@ date = "2009-07-19T16:04:23-07:00"
 draft = false
 title = "Getting Extra Visa Time in Ecuador"
 pic = ""
+aliases = [
+  "/blog/Getting+Extra+Visa+Time+in+Ecuador"
+]
 +++
 
 <p>I did get to Peru this past weekend, and I actually succeeded in getting all 4 stamps that I needed, but after I thought I had succeeded the Ecuadorian dude at the border showed me my     account and I still had only 16 days left.  Not good.</p>

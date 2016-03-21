@@ -4,6 +4,9 @@ date = "2009-08-17T16:04:23-07:00"
 draft = false
 title = "A Day in the Life of an AIESEC Intern in Ecuador"
 pic = ""
+aliases = [
+  "/blog/A+Day+in+the+Life+of+an+AIESEC+Intern+in+Ecuador"
+]
 +++
 
 <p>I only have a little over a week left in Ecuador, so I'll try to get in as many posts as I can before my trip is over.  I realized that I haven't really posted that much on what I do on a typical day to day basis here in Loja, so that's what this post is about.  Sans travelling, giant pigs, or anything out of the ordinary  whatsoever, here's what I do on an average workday.</p>

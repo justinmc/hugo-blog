@@ -4,6 +4,9 @@ date = "2008-11-18T17:04:23-08:00"
 draft = false
 title = "Left 4 Dead LAN"
 pic = ""
+aliases = [
+  "/blog/Left+4+Dead+LAN"
+]
 +++
 
 <p>

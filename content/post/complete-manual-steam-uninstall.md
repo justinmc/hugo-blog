@@ -4,6 +4,9 @@ date = "2009-06-16T16:04:23-07:00"
 draft = false
 title = "Complete Manual Steam Uninstall"
 pic = ""
+aliases = [
+  "/blog/Complete+Manual+Steam+Uninstall"
+]
 +++
 
 <p>

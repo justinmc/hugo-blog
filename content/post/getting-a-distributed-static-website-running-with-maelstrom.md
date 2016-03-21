@@ -4,6 +4,9 @@ date = "2015-04-12T12:21:50-07:00"
 draft = false
 title = "Getting a Distributed Static Website Running with Maelstrom"
 pic = "/files/Bittorrent-Logo-Purple.jpg"
+aliases = [
+  "/blog/Getting+a+Distributed+Static+Website+Running+with+Maelstrom"
+]
 +++
 
 <p>BitTorrent's <a href="http://project-maelstrom.bittorrent.com/">Project Maelstrom</a> is a web browser for the decentralized web that downloads assets via torrent instead of web server.  It was recently released to the public as a beta, and with it a simple Python tool to create torrents optimized for Maelstrom from static websites.  That got me really excited, so I went through the simple process of serving up my own static site via torrent.</p>

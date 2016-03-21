@@ -4,6 +4,9 @@ date = "2010-08-04T02:41:27-07:00"
 draft = false
 title = "First Impressions of Austria"
 pic = "/files/pano1.png"
+aliases = [
+  "/blog/First+Impressions+of+Austria"
+]
 +++
 
 <p>I have already been in Austria for almost 3 weeks so it is long due that I write someting about it.&nbsp; I am here in Graz, Austria, working a computer engineering job at the Graz University of Technology that I got through AIESEC.&nbsp; I'll be here until the very beginning of September.&nbsp; I live in an apartment downtown with two roommates, one of which is an AIESECer.&nbsp; I'm having an awesome time.

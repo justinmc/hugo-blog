@@ -4,6 +4,9 @@ date = "2013-02-03T01:27:23-08:00"
 draft = false
 title = "Innovation in China and a Day in a Beijing Starbucks"
 pic = "/files/beijingSpirit.jpg"
+aliases = [
+  "/blog/Innovation+in+China+and+a+Day+in+a+Beijing+Starbucks"
+]
 +++
 
 <p>

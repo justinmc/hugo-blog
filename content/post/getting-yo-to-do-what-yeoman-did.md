@@ -4,6 +4,9 @@ date = "2013-03-18T08:40:06-07:00"
 draft = false
 title = "Getting yo to Do What yeoman Did"
 pic = "/files/yeoman.png"
+aliases = [
+  "/blog/Getting+yo+to+Do+What+yeoman+Did"
+]
 +++
 
 <p>

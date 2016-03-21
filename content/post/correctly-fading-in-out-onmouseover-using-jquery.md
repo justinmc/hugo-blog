@@ -4,6 +4,9 @@ date = "2012-07-20T22:18:03-07:00"
 draft = false
 title = "Correctly Fading in/out onmouseover Using jQuery"
 pic = "/files/mouseoverpostbg2.png"
+aliases = [
+  "/blog/Correctly+Fading+in/out+onmouseover+Using+jQuery"
+]
 +++
 
 <p>I've had a bit more trouble than I should have getting HTML objects to 

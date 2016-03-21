@@ -4,6 +4,9 @@ date = "2011-11-26T10:04:37-08:00"
 draft = false
 title = "Set Up Tinyproxy in Ubuntu"
 pic = "/files/babyproxy.png"
+aliases = [
+  "/blog/Set+Up+Tinyproxy+in+Ubuntu"
+]
 +++
 
 <p>

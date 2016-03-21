@@ -4,6 +4,9 @@ date = "2011-11-08T02:00:00-08:00"
 draft = false
 title = "Feliz CumpleaÃ±os in Peru"
 pic = ""
+aliases = [
+  "/blog/Feliz+CumpleaÃ±os+in+Peru"
+]
 +++
 
 

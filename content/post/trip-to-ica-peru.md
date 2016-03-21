@@ -4,6 +4,9 @@ date = "2011-10-31T22:00:00-07:00"
 draft = false
 title = "Trip to Ica, Peru"
 pic = "/files/CIMG3427.png"
+aliases = [
+  "/blog/Trip+to+Ica,+Peru"
+]
 +++
 
 <p>

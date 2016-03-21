@@ -4,6 +4,9 @@ date = "2009-08-05T16:04:23-07:00"
 draft = false
 title = "arcoiris.org.ec Launched"
 pic = ""
+aliases = [
+  "/blog/arcoiris.org.ec+Launched"
+]
 +++
 
 <p>

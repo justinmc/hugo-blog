@@ -4,6 +4,9 @@ date = "2011-08-06T03:00:00-07:00"
 draft = false
 title = "Blog Fixed"
 pic = ""
+aliases = [
+  "/blog/Blog+Fixed"
+]
 +++
 
 

@@ -4,6 +4,9 @@ date = "2009-05-18T16:04:23-07:00"
 draft = false
 title = "Arrived in Loja, Ecuador"
 pic = ""
+aliases = [
+  "/blog/Arrived+in+Loja,+Ecuador"
+]
 +++
 
 <p>

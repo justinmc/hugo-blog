@@ -4,6 +4,9 @@ date = "2009-08-17T18:04:23-07:00"
 draft = false
 title = "Impressions of Loja, Ecuador"
 pic = ""
+aliases = [
+  "/blog/Impressions+of+Loja,+Ecuador"
+]
 +++
 
 <p>Another important yet neglected topic.  I've posted a bit about Loja before, but now I have some pictures to go along with it.</p>

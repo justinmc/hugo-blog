@@ -4,6 +4,9 @@ date = "2012-10-24T02:23:54-07:00"
 draft = false
 title = "Making Sense of SVG viewBox's Madness"
 pic = "/files/viewBox.png"
+aliases = [
+  "/blog/Making+Sense+of+SVG+viewBox's+Madness"
+]
 +++
 
 <p>

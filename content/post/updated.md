@@ -4,6 +4,9 @@ date = "2009-07-23T16:04:23-07:00"
 draft = false
 title = "Updated"
 pic = ""
+aliases = [
+  "/blog/Updated"
+]
 +++
 
 <p>

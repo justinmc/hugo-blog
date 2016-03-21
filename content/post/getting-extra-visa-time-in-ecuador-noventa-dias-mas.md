@@ -4,6 +4,9 @@ date = "2009-07-30T16:04:23-07:00"
 draft = false
 title = "Getting Extra Visa Time in Ecuador: Noventa Dí\u00adas Más"
 pic = ""
+aliases = [
+  "/blog/Getting+Extra+Visa+Time+in+Ecuador:+Noventa+Dí\u00adas+Más"
+]
 +++
 
 <p>

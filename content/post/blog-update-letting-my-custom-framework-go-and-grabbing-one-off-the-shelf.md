@@ -4,6 +4,9 @@ date = "2012-06-18T08:01:38-07:00"
 draft = false
 title = "Blog Update: Letting My Custom Framework Go and Grabbing One Off the Shelf"
 pic = "/files/cimg0144.png"
+aliases = [
+  "/blog/Blog+Update:+Letting+My+Custom+Framework+Go+and+Grabbing+One+Off+the+Shelf"
+]
 +++
 
 <p>While never getting quite as much love as I would have liked to give it,

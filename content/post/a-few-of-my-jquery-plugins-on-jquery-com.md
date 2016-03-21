@@ -4,6 +4,9 @@ date = "2013-03-22T23:21:27-07:00"
 draft = false
 title = "A Few of my jQuery Plugins on jquery.com"
 pic = "/files/plugins.png"
+aliases = [
+  "/blog/A+Few+of+my+jQuery+Plugins+on+jquery.com"
+]
 +++
 
 <p>

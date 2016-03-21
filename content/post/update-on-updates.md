@@ -4,6 +4,9 @@ date = "2009-08-16T16:04:23-07:00"
 draft = false
 title = "Update on Updates"
 pic = ""
+aliases = [
+  "/blog/Update+on+Updates"
+]
 +++
 
 <p>I finally got my web-based updater software up and running for this blog.  This was kind of the whole point of the transition to php and MySQL, despite being delayed a bit.  Basically, it makes it really, really easy to update the site.  Evidence: I am currently writing an entry about a writing entries.</p>

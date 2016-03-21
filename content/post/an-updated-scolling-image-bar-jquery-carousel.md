@@ -4,6 +4,9 @@ date = "2012-08-20T06:41:38-07:00"
 draft = false
 title = "An Updated Scolling Image Bar jQuery Carousel"
 pic = "/files/Screenshot from 2012-08-20 21:51:52.png"
+aliases = [
+  "/blog/An+Updated+Scolling+Image+Bar+jQuery+Carousel"
+]
 +++
 
 <p>

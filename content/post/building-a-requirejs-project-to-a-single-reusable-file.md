@@ -4,6 +4,9 @@ date = "2014-03-10T00:03:32-07:00"
 draft = false
 title = "Building a Requirejs Project to a Single, Reusable File"
 pic = "/files/requirejssingle2.png"
+aliases = [
+  "/blog/Building+a+Requirejs+Project+to+a+Single,+Reusable+File"
+]
 +++
 
 <p><a href="http://requirejs.org/">Requirejs</a> is great for breaking up JavaScript projects into multiple files, but what happens when you want to use your Requirejs code in another project?  Ideally, no one should have to individually import your modules, or even use Requirejs at all.  Luckily this is all part of the plan for Requirejs projects, and with a bit of tweaking with the finicky r.js tool, you'll be able to build to a single file with no dependencies.</p>

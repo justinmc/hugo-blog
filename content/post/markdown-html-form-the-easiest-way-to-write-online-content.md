@@ -4,6 +4,9 @@ date = "2013-06-11T05:12:49-07:00"
 draft = false
 title = "Markdown-HTML-Form: The Easiest Way to Write Online Content"
 pic = "/files/markdown-html-form.png"
+aliases = [
+  "/blog/Markdown-HTML-Form:+The+Easiest+Way+to+Write+Online+Content"
+]
 +++
 
 <p>I've always found myself bouncing back and forth with how I write articles for this blog.  Whether I'm writing straight HTML, using a WYSIWYG editor, or compiling markdown, I'm never quite satisfied however I'm doing it.  So I decided to hack together a solution combining the best of all of them.  That resulted in the open source project <a href="https://github.com/justinmc/markdown-html-form">Markdown-HTML-Form</a>, which I'm happily using to type this right now.  The idea was to use exising open source projects to create a markdown input that syncs with an editable WYSIWYG preview, and make it a snap to integrate into an HTML form on top of that.</p>

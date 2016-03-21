@@ -4,6 +4,9 @@ date = "2014-12-13T16:52:26-08:00"
 draft = false
 title = "A Starting Point for Routed Meteor Apps"
 pic = "/files/meteor-logo-pages-small.png"
+aliases = [
+  "/blog/A+Starting+Point+for+Routed+Meteor+Apps"
+]
 +++
 
 <p>There are a lot of really cool demos out there for simple, single page Meteor apps.  When you want to get a bit more practical and add a few different states with routes, Meteor still works great, but the initial work for getting this running can be a bit more strenuous.  This post and my open source boilerplate project <a href="https://github.com/justinmc/meteorplate">Meteorplate</a> aim to help get you up and running in the shortest time possible.</p>

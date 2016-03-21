@@ -4,6 +4,9 @@ date = "2013-01-09T04:31:44-08:00"
 draft = false
 title = "A Tutorial for Getting Started with Grunt"
 pic = "/files/grunt.png"
+aliases = [
+  "/blog/A+Tutorial+for+Getting+Started+with+Grunt"
+]
 +++
 
 <p>

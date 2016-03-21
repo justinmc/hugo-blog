@@ -4,6 +4,9 @@ date = "2008-11-12T17:04:23-08:00"
 draft = false
 title = "Supreme Commander 2"
 pic = ""
+aliases = [
+  "/blog/Supreme+Commander+2"
+]
 +++
 
 <p>

@@ -4,6 +4,9 @@ date = "2008-10-26T18:04:23-07:00"
 draft = false
 title = "Far Cry 2 Configuration File Help"
 pic = ""
+aliases = [
+  "/blog/Far+Cry+2+Configuration+File+Help"
+]
 +++
 
 <p>
