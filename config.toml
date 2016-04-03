@@ -2,7 +2,6 @@ baseurl = "http://justinmccandless.com/"
 languageCode = "en-us"
 title = "Justin McCandless"
 author = "Justin McCandless"
-disqusShortname = "justinmccandless"
 
 [params]
   logo      = "/images/logo.png"
@@ -13,4 +12,4 @@ disqusShortname = "justinmccandless"
   github    = "https://github.com/justinmc"
   email     = "justinjmccandless@gmail.com"
   analytics = "UA-12345678-9"
-
+  disqusShortname = "justinmccandless"
