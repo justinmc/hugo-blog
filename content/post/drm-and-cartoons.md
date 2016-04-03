@@ -5,7 +5,8 @@ draft = false
 title = "DRM and Cartoons"
 pic = ""
 aliases = [
-  "/blog/DRM+and+Cartoons"
+  "/blog/DRM+and+Cartoons",
+  "/blog/drm+and+cartoons"
 ]
 +++
 

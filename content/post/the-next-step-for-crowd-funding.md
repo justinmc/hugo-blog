@@ -5,7 +5,8 @@ draft = false
 title = "The Next Step for Crowd Funding"
 pic = "/files/crowdblur.jpg"
 aliases = [
-  "/blog/The+Next+Step+for+Crowd+Funding"
+  "/blog/The+Next+Step+for+Crowd+Funding",
+  "/blog/the+next+step+for+crowd+funding"
 ]
 +++
 

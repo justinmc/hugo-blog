@@ -5,7 +5,8 @@ draft = false
 title = "JavaScript's function.bind and Why You Should Know it Exists"
 pic = "/files/Screenshot from 2013-10-17 11:24:16.png"
 aliases = [
-  "/blog/JavaScript's+function.bind+and+Why+You+Should+Know+it+Exists"
+  "/blog/JavaScript's+function.bind+and+Why+You+Should+Know+it+Exists",
+  "/blog/javascript's+function.bind+and+why+you+should+know+it+exists"
 ]
 +++
 

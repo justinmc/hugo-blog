@@ -5,7 +5,8 @@ draft = false
 title = "Pictures of BaÃ±os de Ambato, Ecuador, and a Bit More"
 pic = ""
 aliases = [
-  "/blog/Pictures+of+BaÃ±os+de+Ambato,+Ecuador,+and+a+Bit+More"
+  "/blog/Pictures+of+BaÃ±os+de+Ambato,+Ecuador,+and+a+Bit+More",
+  "/blog/pictures+of+baã±os+de+ambato,+ecuador,+and+a+bit+more"
 ]
 +++
 

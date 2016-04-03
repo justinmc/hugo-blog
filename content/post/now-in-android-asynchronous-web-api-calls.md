@@ -5,7 +5,8 @@ draft = false
 title = "Now in Android: Asynchronous Web API Calls"
 pic = "/files/android8bit.png"
 aliases = [
-  "/blog/Now+in+Android:+Asynchronous+Web+API+Calls"
+  "/blog/Now+in+Android:+Asynchronous+Web+API+Calls",
+  "/blog/now+in+android:+asynchronous+web+api+calls"
 ]
 +++
 

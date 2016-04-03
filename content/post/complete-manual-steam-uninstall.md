@@ -5,7 +5,8 @@ draft = false
 title = "Complete Manual Steam Uninstall"
 pic = ""
 aliases = [
-  "/blog/Complete+Manual+Steam+Uninstall"
+  "/blog/Complete+Manual+Steam+Uninstall",
+  "/blog/complete+manual+steam+uninstall"
 ]
 +++
 

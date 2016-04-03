@@ -5,7 +5,8 @@ draft = false
 title = "Test IE6 and Other Old Browsers Using Windows 7's Windows XP Mode"
 pic = "/files/browser_logos.png"
 aliases = [
-  "/blog/Test+IE6+and+Other+Old+Browsers+Using+Windows+7's+Windows+XP+Mode"
+  "/blog/Test+IE6+and+Other+Old+Browsers+Using+Windows+7's+Windows+XP+Mode",
+  "/blog/test+ie6+and+other+old+browsers+using+windows+7's+windows+xp+mode"
 ]
 +++
 

@@ -5,7 +5,8 @@ draft = false
 title = "Announcing Mathpx"
 pic = "/files/mathpxArticleBig.png"
 aliases = [
-  "/blog/Announcing+Mathpx"
+  "/blog/Announcing+Mathpx",
+  "/blog/announcing+mathpx"
 ]
 +++
 

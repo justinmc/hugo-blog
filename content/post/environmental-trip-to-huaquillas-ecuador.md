@@ -5,7 +5,8 @@ draft = false
 title = "Environmental Trip to Huaquillas, Ecuador"
 pic = ""
 aliases = [
-  "/blog/Environmental+Trip+to+Huaquillas,+Ecuador"
+  "/blog/Environmental+Trip+to+Huaquillas,+Ecuador",
+  "/blog/environmental+trip+to+huaquillas,+ecuador"
 ]
 +++
 

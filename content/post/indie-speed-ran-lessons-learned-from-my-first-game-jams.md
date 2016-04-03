@@ -5,7 +5,8 @@ draft = false
 title = "Indie Speed Ran - Lessons Learned from My First Game Jams"
 pic = "/files/Screenshot from 2013-10-10 11:21:12.png"
 aliases = [
-  "/blog/Indie+Speed+Ran+-+Lessons+Learned+from+My+First+Game+Jams"
+  "/blog/Indie+Speed+Ran+-+Lessons+Learned+from+My+First+Game+Jams",
+  "/blog/indie+speed+ran+-+lessons+learned+from+my+first+game+jams"
 ]
 +++
 

@@ -5,7 +5,8 @@ draft = false
 title = "Ubisoft DRM too?"
 pic = ""
 aliases = [
-  "/blog/Ubisoft+DRM+too?"
+  "/blog/Ubisoft+DRM+too?",
+  "/blog/ubisoft+drm+too?"
 ]
 +++
 

@@ -5,7 +5,8 @@ draft = false
 title = "Writing an External File into an HTML File using Javascript"
 pic = ""
 aliases = [
-  "/blog/Writing+an+External+File+into+an+HTML+File+using+Javascript"
+  "/blog/Writing+an+External+File+into+an+HTML+File+using+Javascript",
+  "/blog/writing+an+external+file+into+an+html+file+using+javascript"
 ]
 +++
 

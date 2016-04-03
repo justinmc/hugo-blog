@@ -5,7 +5,8 @@ draft = false
 title = "Finca: At a Ranch in the Mountains of Ecuador"
 pic = "/files/CIMG2274.png"
 aliases = [
-  "/blog/Finca:+At+a+Ranch+in+the+Mountains+of+Ecuador"
+  "/blog/Finca:+At+a+Ranch+in+the+Mountains+of+Ecuador",
+  "/blog/finca:+at+a+ranch+in+the+mountains+of+ecuador"
 ]
 +++
 

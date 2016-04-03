@@ -5,7 +5,8 @@ draft = false
 title = "Setting up HTTPS on Node for Free with Let's Encrypt"
 pic = "/files/letsencrypt-logo-horizontal-small.png"
 aliases = [
-  "/blog/Setting+up+HTTPS+on+Node+for+Free+with+Let's+Encrypt"
+  "/blog/Setting+up+HTTPS+on+Node+for+Free+with+Let's+Encrypt",
+  "/blog/setting+up+https+on+node+for+free+with+let's+encrypt"
 ]
 +++
 

@@ -5,7 +5,8 @@ draft = false
 title = "What's Going On Now"
 pic = ""
 aliases = [
-  "/blog/What's+Going+On+Now"
+  "/blog/What's+Going+On+Now",
+  "/blog/what's+going+on+now"
 ]
 +++
 

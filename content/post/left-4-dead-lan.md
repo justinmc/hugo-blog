@@ -5,7 +5,8 @@ draft = false
 title = "Left 4 Dead LAN"
 pic = ""
 aliases = [
-  "/blog/Left+4+Dead+LAN"
+  "/blog/Left+4+Dead+LAN",
+  "/blog/left+4+dead+lan"
 ]
 +++
 

@@ -5,7 +5,8 @@ draft = false
 title = "Exams Are Over"
 pic = ""
 aliases = [
-  "/blog/Exams+Are+Over"
+  "/blog/Exams+Are+Over",
+  "/blog/exams+are+over"
 ]
 +++
 

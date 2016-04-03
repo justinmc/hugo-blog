@@ -5,7 +5,8 @@ draft = false
 title = "An Updated Scolling Image Bar jQuery Carousel"
 pic = "/files/Screenshot from 2012-08-20 21:51:52.png"
 aliases = [
-  "/blog/An+Updated+Scolling+Image+Bar+jQuery+Carousel"
+  "/blog/An+Updated+Scolling+Image+Bar+jQuery+Carousel",
+  "/blog/an+updated+scolling+image+bar+jquery+carousel"
 ]
 +++
 

@@ -5,7 +5,8 @@ draft = false
 title = "Motorola CLIQ Review"
 pic = ""
 aliases = [
-  "/blog/Motorola+CLIQ+Review"
+  "/blog/Motorola+CLIQ+Review",
+  "/blog/motorola+cliq+review"
 ]
 +++
 

@@ -5,7 +5,8 @@ draft = false
 title = "Indie Speed Run Midpoint"
 pic = "/files/Screenshot from 2013-09-30 23:48:58.png"
 aliases = [
-  "/blog/Indie+Speed+Run+Midpoint"
+  "/blog/Indie+Speed+Run+Midpoint",
+  "/blog/indie+speed+run+midpoint"
 ]
 +++
 

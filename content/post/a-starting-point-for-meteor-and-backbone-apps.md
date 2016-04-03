@@ -5,7 +5,8 @@ draft = false
 title = "A Starting Point for Meteor and Backbone Apps"
 pic = "/files/miniverse.png"
 aliases = [
-  "/blog/A+Starting+Point+for+Meteor+and+Backbone+Apps"
+  "/blog/A+Starting+Point+for+Meteor+and+Backbone+Apps",
+  "/blog/a+starting+point+for+meteor+and+backbone+apps"
 ]
 +++
 

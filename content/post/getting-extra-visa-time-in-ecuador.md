@@ -5,7 +5,8 @@ draft = false
 title = "Getting Extra Visa Time in Ecuador"
 pic = ""
 aliases = [
-  "/blog/Getting+Extra+Visa+Time+in+Ecuador"
+  "/blog/Getting+Extra+Visa+Time+in+Ecuador",
+  "/blog/getting+extra+visa+time+in+ecuador"
 ]
 +++
 

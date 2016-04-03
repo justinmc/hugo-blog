@@ -5,7 +5,8 @@ draft = false
 title = "Innovation in China and a Day in a Beijing Starbucks"
 pic = "/files/beijingSpirit.jpg"
 aliases = [
-  "/blog/Innovation+in+China+and+a+Day+in+a+Beijing+Starbucks"
+  "/blog/Innovation+in+China+and+a+Day+in+a+Beijing+Starbucks",
+  "/blog/innovation+in+china+and+a+day+in+a+beijing+starbucks"
 ]
 +++
 

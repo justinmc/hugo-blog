@@ -5,7 +5,8 @@ draft = false
 title = "PHP + SQL = FUN"
 pic = ""
 aliases = [
-  "/blog/PHP+++SQL+=+FUN"
+  "/blog/PHP+++SQL+=+FUN",
+  "/blog/php+++sql+=+fun"
 ]
 +++
 

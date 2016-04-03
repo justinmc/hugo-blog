@@ -5,7 +5,8 @@ draft = false
 title = "Formatting Currency in Javascript"
 pic = "/files/J$.png"
 aliases = [
-  "/blog/Formatting+Currency+in+Javascript"
+  "/blog/Formatting+Currency+in+Javascript",
+  "/blog/formatting+currency+in+javascript"
 ]
 +++
 

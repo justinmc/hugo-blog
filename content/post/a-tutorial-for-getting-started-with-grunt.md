@@ -5,7 +5,8 @@ draft = false
 title = "A Tutorial for Getting Started with Grunt"
 pic = "/files/grunt.png"
 aliases = [
-  "/blog/A+Tutorial+for+Getting+Started+with+Grunt"
+  "/blog/A+Tutorial+for+Getting+Started+with+Grunt",
+  "/blog/a+tutorial+for+getting+started+with+grunt"
 ]
 +++
 

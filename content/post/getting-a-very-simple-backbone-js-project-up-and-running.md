@@ -5,7 +5,8 @@ draft = false
 title = "Getting a Very Simple Backbone.js Project Up and Running"
 pic = "/files/backbone.png"
 aliases = [
-  "/blog/Getting+a+Very+Simple+Backbone.js+Project+Up+and+Running"
+  "/blog/Getting+a+Very+Simple+Backbone.js+Project+Up+and+Running",
+  "/blog/getting+a+very+simple+backbone.js+project+up+and+running"
 ]
 +++
 

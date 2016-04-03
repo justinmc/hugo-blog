@@ -5,7 +5,8 @@ draft = false
 title = "Introducing Multitasq"
 pic = "/files/multitasqScreenshotSmall.png"
 aliases = [
-  "/blog/Introducing+Multitasq"
+  "/blog/Introducing+Multitasq",
+  "/blog/introducing+multitasq"
 ]
 +++
 

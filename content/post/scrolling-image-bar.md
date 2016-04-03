@@ -5,7 +5,8 @@ draft = false
 title = "Scrolling Image Bar"
 pic = ""
 aliases = [
-  "/blog/Scrolling+Image+Bar"
+  "/blog/Scrolling+Image+Bar",
+  "/blog/scrolling+image+bar"
 ]
 +++
 

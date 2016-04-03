@@ -5,7 +5,8 @@ draft = false
 title = "Pinterest-Style Staggered Masonry List in Android"
 pic = "/files/masonry_small.png"
 aliases = [
-  "/blog/Pinterest-Style+Staggered+Masonry+List+in+Android"
+  "/blog/Pinterest-Style+Staggered+Masonry+List+in+Android",
+  "/blog/pinterest-style+staggered+masonry+list+in+android"
 ]
 +++
 

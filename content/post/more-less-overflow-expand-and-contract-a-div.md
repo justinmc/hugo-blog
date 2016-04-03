@@ -5,7 +5,8 @@ draft = false
 title = "More Less Overflow: Expand and Contract a Div"
 pic = "/files/morelessoverflow2.png"
 aliases = [
-  "/blog/More+Less+Overflow:+Expand+and+Contract+a+Div"
+  "/blog/More+Less+Overflow:+Expand+and+Contract+a+Div",
+  "/blog/more+less+overflow:+expand+and+contract+a+div"
 ]
 +++
 

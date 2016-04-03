@@ -5,7 +5,8 @@ draft = false
 title = "It Was Midnight Blue, not Purple"
 pic = ""
 aliases = [
-  "/blog/It+Was+Midnight+Blue,+not+Purple"
+  "/blog/It+Was+Midnight+Blue,+not+Purple",
+  "/blog/it+was+midnight+blue,+not+purple"
 ]
 +++
 

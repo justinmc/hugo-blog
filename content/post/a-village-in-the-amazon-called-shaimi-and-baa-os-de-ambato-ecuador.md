@@ -5,7 +5,8 @@ draft = false
 title = "A Village in the Amazon Called Shaimi, and BaÃ±os de Ambato, Ecuador"
 pic = ""
 aliases = [
-  "/blog/A+Village+in+the+Amazon+Called+Shaimi,+and+BaÃ±os+de+Ambato,+Ecuador"
+  "/blog/A+Village+in+the+Amazon+Called+Shaimi,+and+BaÃ±os+de+Ambato,+Ecuador",
+  "/blog/a+village+in+the+amazon+called+shaimi,+and+baã±os+de+ambato,+ecuador"
 ]
 +++
 

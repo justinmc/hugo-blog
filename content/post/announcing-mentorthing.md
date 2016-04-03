@@ -5,7 +5,8 @@ draft = false
 title = "Announcing Mentorthing"
 pic = "/files/logo-biggish.png"
 aliases = [
-  "/blog/Announcing+Mentorthing"
+  "/blog/Announcing+Mentorthing",
+  "/blog/announcing+mentorthing"
 ]
 +++
 

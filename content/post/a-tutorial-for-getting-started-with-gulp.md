@@ -5,7 +5,8 @@ draft = false
 title = "A Tutorial for Getting Started with Gulp"
 pic = "/files/shlurp.png"
 aliases = [
-  "/blog/A+Tutorial+for+Getting+Started+with+Gulp"
+  "/blog/A+Tutorial+for+Getting+Started+with+Gulp",
+  "/blog/a+tutorial+for+getting+started+with+gulp"
 ]
 +++
 

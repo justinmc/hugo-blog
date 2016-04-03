@@ -5,7 +5,8 @@ draft = false
 title = "Horseback Riding in Vilcabamba, Ecuador"
 pic = ""
 aliases = [
-  "/blog/Horseback+Riding+in+Vilcabamba,+Ecuador"
+  "/blog/Horseback+Riding+in+Vilcabamba,+Ecuador",
+  "/blog/horseback+riding+in+vilcabamba,+ecuador"
 ]
 +++
 

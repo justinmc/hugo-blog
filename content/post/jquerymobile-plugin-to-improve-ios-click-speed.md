@@ -5,7 +5,8 @@ draft = false
 title = "jQueryMobile Plugin to Improve iOS Click Speed"
 pic = "/files/jqm.png"
 aliases = [
-  "/blog/jQueryMobile+Plugin+to+Improve+iOS+Click+Speed"
+  "/blog/jQueryMobile+Plugin+to+Improve+iOS+Click+Speed",
+  "/blog/jquerymobile+plugin+to+improve+ios+click+speed"
 ]
 +++
 

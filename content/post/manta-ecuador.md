@@ -5,7 +5,8 @@ draft = false
 title = "Manta, Ecuador"
 pic = ""
 aliases = [
-  "/blog/Manta,+Ecuador"
+  "/blog/Manta,+Ecuador",
+  "/blog/manta,+ecuador"
 ]
 +++
 

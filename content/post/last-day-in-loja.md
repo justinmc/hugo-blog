@@ -5,7 +5,8 @@ draft = false
 title = "Last Day in Loja"
 pic = ""
 aliases = [
-  "/blog/Last+Day+in+Loja"
+  "/blog/Last+Day+in+Loja",
+  "/blog/last+day+in+loja"
 ]
 +++
 

@@ -5,7 +5,8 @@ draft = false
 title = "Making API Calls in iOS"
 pic = "/files/xcode.png"
 aliases = [
-  "/blog/Making+API+Calls+in+iOS"
+  "/blog/Making+API+Calls+in+iOS",
+  "/blog/making+api+calls+in+ios"
 ]
 +++
 

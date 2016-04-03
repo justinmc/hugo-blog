@@ -5,7 +5,8 @@ draft = false
 title = "Building a Requirejs Project to a Single, Reusable File"
 pic = "/files/requirejssingle2.png"
 aliases = [
-  "/blog/Building+a+Requirejs+Project+to+a+Single,+Reusable+File"
+  "/blog/Building+a+Requirejs+Project+to+a+Single,+Reusable+File",
+  "/blog/building+a+requirejs+project+to+a+single,+reusable+file"
 ]
 +++
 

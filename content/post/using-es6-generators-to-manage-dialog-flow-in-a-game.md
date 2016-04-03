@@ -5,7 +5,8 @@ draft = false
 title = "Using ES6 Generators to Manage Dialog Flow in a Game"
 pic = "/files/dialoggame.png"
 aliases = [
-  "/blog/Using+ES6+Generators+to+Manage+Dialog+Flow+in+a+Game"
+  "/blog/Using+ES6+Generators+to+Manage+Dialog+Flow+in+a+Game",
+  "/blog/using+es6+generators+to+manage+dialog+flow+in+a+game"
 ]
 +++
 

@@ -5,7 +5,8 @@ draft = false
 title = "View Memory Usage by Tab in Firefox"
 pic = "/files/Screenshot from 2012-06-20 22:27:27.png"
 aliases = [
-  "/blog/View+Memory+Usage+by+Tab+in+Firefox"
+  "/blog/View+Memory+Usage+by+Tab+in+Firefox",
+  "/blog/view+memory+usage+by+tab+in+firefox"
 ]
 +++
 

@@ -5,7 +5,8 @@ draft = false
 title = "A Day in the Life of an AIESEC Intern in Ecuador"
 pic = ""
 aliases = [
-  "/blog/A+Day+in+the+Life+of+an+AIESEC+Intern+in+Ecuador"
+  "/blog/A+Day+in+the+Life+of+an+AIESEC+Intern+in+Ecuador",
+  "/blog/a+day+in+the+life+of+an+aiesec+intern+in+ecuador"
 ]
 +++
 

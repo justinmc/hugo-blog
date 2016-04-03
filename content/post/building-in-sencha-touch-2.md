@@ -5,7 +5,8 @@ draft = false
 title = "Building in Sencha Touch 2"
 pic = "/files/sencha.jpg"
 aliases = [
-  "/blog/Building+in+Sencha+Touch+2"
+  "/blog/Building+in+Sencha+Touch+2",
+  "/blog/building+in+sencha+touch+2"
 ]
 +++
 

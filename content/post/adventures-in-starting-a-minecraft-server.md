@@ -5,7 +5,8 @@ draft = false
 title = "Adventures in Starting a Minecraft Server"
 pic = ""
 aliases = [
-  "/blog/Adventures+in+Starting+a+Minecraft+Server"
+  "/blog/Adventures+in+Starting+a+Minecraft+Server",
+  "/blog/adventures+in+starting+a+minecraft+server"
 ]
 +++
 

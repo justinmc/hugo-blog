@@ -5,7 +5,8 @@ draft = false
 title = "Super Responsive Minesweeper"
 pic = "/files/banner.png"
 aliases = [
-  "/blog/Super+Responsive+Minesweeper"
+  "/blog/Super+Responsive+Minesweeper",
+  "/blog/super+responsive+minesweeper"
 ]
 +++
 

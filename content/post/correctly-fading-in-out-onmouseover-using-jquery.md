@@ -5,7 +5,8 @@ draft = false
 title = "Correctly Fading in/out onmouseover Using jQuery"
 pic = "/files/mouseoverpostbg2.png"
 aliases = [
-  "/blog/Correctly+Fading+in/out+onmouseover+Using+jQuery"
+  "/blog/Correctly+Fading+in/out+onmouseover+Using+jQuery",
+  "/blog/correctly+fading+in/out+onmouseover+using+jquery"
 ]
 +++
 

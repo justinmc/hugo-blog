@@ -5,7 +5,8 @@ draft = false
 title = "Trip to Ica, Peru"
 pic = "/files/CIMG3427.png"
 aliases = [
-  "/blog/Trip+to+Ica,+Peru"
+  "/blog/Trip+to+Ica,+Peru",
+  "/blog/trip+to+ica,+peru"
 ]
 +++
 

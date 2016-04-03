@@ -5,7 +5,8 @@ draft = false
 title = "One Week Left!"
 pic = ""
 aliases = [
-  "/blog/One+Week+Left!"
+  "/blog/One+Week+Left!",
+  "/blog/one+week+left!"
 ]
 +++
 

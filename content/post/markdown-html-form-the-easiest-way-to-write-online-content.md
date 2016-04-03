@@ -5,7 +5,8 @@ draft = false
 title = "Markdown-HTML-Form: The Easiest Way to Write Online Content"
 pic = "/files/markdown-html-form.png"
 aliases = [
-  "/blog/Markdown-HTML-Form:+The+Easiest+Way+to+Write+Online+Content"
+  "/blog/Markdown-HTML-Form:+The+Easiest+Way+to+Write+Online+Content",
+  "/blog/markdown-html-form:+the+easiest+way+to+write+online+content"
 ]
 +++
 

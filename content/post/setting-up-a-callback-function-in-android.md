@@ -5,7 +5,8 @@ draft = false
 title = "Setting Up a Callback Function in Android"
 pic = "/files/android8bitcallback.png"
 aliases = [
-  "/blog/Setting+Up+a+Callback+Function+in+Android"
+  "/blog/Setting+Up+a+Callback+Function+in+Android",
+  "/blog/setting+up+a+callback+function+in+android"
 ]
 +++
 

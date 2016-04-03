@@ -5,7 +5,8 @@ draft = false
 title = "To Lima"
 pic = "/files/CIMG3802.png"
 aliases = [
-  "/blog/To+Lima"
+  "/blog/To+Lima",
+  "/blog/to+lima"
 ]
 +++
 

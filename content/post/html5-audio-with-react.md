@@ -5,7 +5,8 @@ draft = false
 title = "HTML5 Audio with React"
 pic = "/files/react audio.png"
 aliases = [
-  "/blog/HTML5+Audio+with+React"
+  "/blog/HTML5+Audio+with+React",
+  "/blog/html5+audio+with+react"
 ]
 +++
 

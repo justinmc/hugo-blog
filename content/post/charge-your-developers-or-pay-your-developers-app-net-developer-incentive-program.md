@@ -5,7 +5,8 @@ draft = false
 title = "Charge Your Developers or Pay Your Developers?  App.net Developer Incentive Program"
 pic = "/files/appnet.png"
 aliases = [
-  "/blog/Charge+Your+Developers+or+Pay+Your+Developers?++App.net+Developer+Incentive+Program"
+  "/blog/Charge+Your+Developers+or+Pay+Your+Developers?++App.net+Developer+Incentive+Program",
+  "/blog/charge+your+developers+or+pay+your+developers?++app.net+developer+incentive+program"
 ]
 +++
 

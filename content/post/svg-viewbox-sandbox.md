@@ -5,7 +5,8 @@ draft = false
 title = "SVG viewBox sandBox"
 pic = "/files/viewboxer.png"
 aliases = [
-  "/blog/SVG+viewBox+sandBox"
+  "/blog/SVG+viewBox+sandBox",
+  "/blog/svg+viewbox+sandbox"
 ]
 +++
 

@@ -5,7 +5,8 @@ draft = false
 title = "Far Cry 2 Configuration File Help"
 pic = ""
 aliases = [
-  "/blog/Far+Cry+2+Configuration+File+Help"
+  "/blog/Far+Cry+2+Configuration+File+Help",
+  "/blog/far+cry+2+configuration+file+help"
 ]
 +++
 

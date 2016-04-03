@@ -5,7 +5,8 @@ draft = false
 title = "Volunteering with Telefonica of Peru, cont'd"
 pic = ""
 aliases = [
-  "/blog/Volunteering+with+Telefonica+of+Peru,+cont'd"
+  "/blog/Volunteering+with+Telefonica+of+Peru,+cont'd",
+  "/blog/volunteering+with+telefonica+of+peru,+cont'd"
 ]
 +++
 

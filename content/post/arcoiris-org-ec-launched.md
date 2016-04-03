@@ -5,7 +5,8 @@ draft = false
 title = "arcoiris.org.ec Launched"
 pic = ""
 aliases = [
-  "/blog/arcoiris.org.ec+Launched"
+  "/blog/arcoiris.org.ec+Launched",
+  "/blog/arcoiris.org.ec+launched"
 ]
 +++
 

@@ -5,7 +5,8 @@ draft = false
 title = "Getting yo to Do What yeoman Did"
 pic = "/files/yeoman.png"
 aliases = [
-  "/blog/Getting+yo+to+Do+What+yeoman+Did"
+  "/blog/Getting+yo+to+Do+What+yeoman+Did",
+  "/blog/getting+yo+to+do+what+yeoman+did"
 ]
 +++
 

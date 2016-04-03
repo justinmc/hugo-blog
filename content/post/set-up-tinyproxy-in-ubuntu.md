@@ -5,7 +5,8 @@ draft = false
 title = "Set Up Tinyproxy in Ubuntu"
 pic = "/files/babyproxy.png"
 aliases = [
-  "/blog/Set+Up+Tinyproxy+in+Ubuntu"
+  "/blog/Set+Up+Tinyproxy+in+Ubuntu",
+  "/blog/set+up+tinyproxy+in+ubuntu"
 ]
 +++
 

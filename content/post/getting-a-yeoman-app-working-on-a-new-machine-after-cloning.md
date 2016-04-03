@@ -5,7 +5,8 @@ draft = false
 title = "Getting a Yeoman App Working on a New Machine after Cloning"
 pic = "/files/yeomanClone.png"
 aliases = [
-  "/blog/Getting+a+Yeoman+App+Working+on+a+New+Machine+after+Cloning"
+  "/blog/Getting+a+Yeoman+App+Working+on+a+New+Machine+after+Cloning",
+  "/blog/getting+a+yeoman+app+working+on+a+new+machine+after+cloning"
 ]
 +++
 

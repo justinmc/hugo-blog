@@ -5,7 +5,8 @@ draft = false
 title = "First Impressions of Austria"
 pic = "/files/pano1.png"
 aliases = [
-  "/blog/First+Impressions+of+Austria"
+  "/blog/First+Impressions+of+Austria",
+  "/blog/first+impressions+of+austria"
 ]
 +++
 

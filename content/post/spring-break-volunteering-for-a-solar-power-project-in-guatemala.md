@@ -5,7 +5,8 @@ draft = false
 title = "Spring Break Volunteering for a Solar Power Project in Guatemala"
 pic = ""
 aliases = [
-  "/blog/Spring+Break+Volunteering+for+a+Solar+Power+Project+in+Guatemala"
+  "/blog/Spring+Break+Volunteering+for+a+Solar+Power+Project+in+Guatemala",
+  "/blog/spring+break+volunteering+for+a+solar+power+project+in+guatemala"
 ]
 +++
 

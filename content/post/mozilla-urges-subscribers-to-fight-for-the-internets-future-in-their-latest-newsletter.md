@@ -5,7 +5,8 @@ draft = false
 title = "Mozilla Urges Subscribers to \"Fight for the Internet's Future\" in Their Latest Newsletter"
 pic = ""
 aliases = [
-  "/blog/Mozilla+Urges+Subscribers+to+\"Fight+for+the+Internet's+Future\"+in+Their+Latest+Newsletter"
+  "/blog/Mozilla+Urges+Subscribers+to+\"Fight+for+the+Internet's+Future\"+in+Their+Latest+Newsletter",
+  "/blog/mozilla+urges+subscribers+to+\"fight+for+the+internet's+future\"+in+their+latest+newsletter"
 ]
 +++
 

@@ -5,7 +5,8 @@ draft = false
 title = "Supreme Commander 2"
 pic = ""
 aliases = [
-  "/blog/Supreme+Commander+2"
+  "/blog/Supreme+Commander+2",
+  "/blog/supreme+commander+2"
 ]
 +++
 

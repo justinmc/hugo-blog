@@ -5,7 +5,8 @@ draft = false
 title = "Blog Update: Letting My Custom Framework Go and Grabbing One Off the Shelf"
 pic = "/files/cimg0144.png"
 aliases = [
-  "/blog/Blog+Update:+Letting+My+Custom+Framework+Go+and+Grabbing+One+Off+the+Shelf"
+  "/blog/Blog+Update:+Letting+My+Custom+Framework+Go+and+Grabbing+One+Off+the+Shelf",
+  "/blog/blog+update:+letting+my+custom+framework+go+and+grabbing+one+off+the+shelf"
 ]
 +++
 

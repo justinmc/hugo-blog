@@ -5,7 +5,8 @@ draft = false
 title = "Write Your Commit Message First and Code Second"
 pic = "/files/blogCommitMessages.JPG"
 aliases = [
-  "/blog/Write+Your+Commit+Message+First+and+Code+Second"
+  "/blog/Write+Your+Commit+Message+First+and+Code+Second",
+  "/blog/write+your+commit+message+first+and+code+second"
 ]
 +++
 

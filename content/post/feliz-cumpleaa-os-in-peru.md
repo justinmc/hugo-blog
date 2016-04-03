@@ -5,7 +5,8 @@ draft = false
 title = "Feliz CumpleaÃ±os in Peru"
 pic = ""
 aliases = [
-  "/blog/Feliz+CumpleaÃ±os+in+Peru"
+  "/blog/Feliz+CumpleaÃ±os+in+Peru",
+  "/blog/feliz+cumpleaã±os+in+peru"
 ]
 +++
 

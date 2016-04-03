@@ -5,7 +5,8 @@ draft = false
 title = "Yeoman, Requirejs, jQuery Mobile, Backbone, and a Lot of Config Problems"
 pic = "/files/front.png"
 aliases = [
-  "/blog/Yeoman,+Requirejs,+jQuery+Mobile,+Backbone,+and+a+Lot+of+Config+Problems"
+  "/blog/Yeoman,+Requirejs,+jQuery+Mobile,+Backbone,+and+a+Lot+of+Config+Problems",
+  "/blog/yeoman,+requirejs,+jquery+mobile,+backbone,+and+a+lot+of+config+problems"
 ]
 +++
 

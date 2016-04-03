@@ -5,7 +5,8 @@ draft = false
 title = "First Post"
 pic = ""
 aliases = [
-  "/blog/First+Post"
+  "/blog/First+Post",
+  "/blog/first+post"
 ]
 +++
 

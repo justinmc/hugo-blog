@@ -5,7 +5,8 @@ draft = false
 title = "Podocarpus National Park, Ecuador, Vilcabamba Entrance"
 pic = ""
 aliases = [
-  "/blog/Podocarpus+National+Park,+Ecuador,+Vilcabamba+Entrance"
+  "/blog/Podocarpus+National+Park,+Ecuador,+Vilcabamba+Entrance",
+  "/blog/podocarpus+national+park,+ecuador,+vilcabamba+entrance"
 ]
 +++
 

@@ -5,7 +5,8 @@ draft = false
 title = "Open Source jQuery Carousel"
 pic = "/files/opencarousel_small.png"
 aliases = [
-  "/blog/Open+Source+jQuery+Carousel"
+  "/blog/Open+Source+jQuery+Carousel",
+  "/blog/open+source+jquery+carousel"
 ]
 +++
 

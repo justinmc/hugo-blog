@@ -5,7 +5,8 @@ draft = false
 title = "Essential Linux Apps"
 pic = ""
 aliases = [
-  "/blog/Essential+Linux+Apps"
+  "/blog/Essential+Linux+Apps",
+  "/blog/essential+linux+apps"
 ]
 +++
 

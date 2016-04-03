@@ -5,7 +5,8 @@ draft = false
 title = "Making Sense of SVG viewBox's Madness"
 pic = "/files/viewBox.png"
 aliases = [
-  "/blog/Making+Sense+of+SVG+viewBox's+Madness"
+  "/blog/Making+Sense+of+SVG+viewBox's+Madness",
+  "/blog/making+sense+of+svg+viewbox's+madness"
 ]
 +++
 

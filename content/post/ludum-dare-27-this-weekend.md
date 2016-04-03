@@ -5,7 +5,8 @@ draft = false
 title = "Ludum Dare 27 this Weekend"
 pic = "/files/ludumdare.png"
 aliases = [
-  "/blog/Ludum+Dare+27+this+Weekend"
+  "/blog/Ludum+Dare+27+this+Weekend",
+  "/blog/ludum+dare+27+this+weekend"
 ]
 +++
 

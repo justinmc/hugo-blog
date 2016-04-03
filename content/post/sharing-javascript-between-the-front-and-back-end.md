@@ -5,7 +5,8 @@ draft = false
 title = "Sharing JavaScript Between the Front and Back End"
 pic = "/files/frontback.png"
 aliases = [
-  "/blog/Sharing+JavaScript+Between+the+Front+and+Back+End"
+  "/blog/Sharing+JavaScript+Between+the+Front+and+Back+End",
+  "/blog/sharing+javascript+between+the+front+and+back+end"
 ]
 +++
 

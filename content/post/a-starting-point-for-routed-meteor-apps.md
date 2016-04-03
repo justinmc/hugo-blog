@@ -5,7 +5,8 @@ draft = false
 title = "A Starting Point for Routed Meteor Apps"
 pic = "/files/meteor-logo-pages-small.png"
 aliases = [
-  "/blog/A+Starting+Point+for+Routed+Meteor+Apps"
+  "/blog/A+Starting+Point+for+Routed+Meteor+Apps",
+  "/blog/a+starting+point+for+routed+meteor+apps"
 ]
 +++
 

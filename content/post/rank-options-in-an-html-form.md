@@ -5,7 +5,8 @@ draft = false
 title = "Rank Options in an HTML Form"
 pic = "/files/Screenshot from 2012-06-20 21:32:33.png"
 aliases = [
-  "/blog/Rank+Options+in+an+HTML+Form"
+  "/blog/Rank+Options+in+an+HTML+Form",
+  "/blog/rank+options+in+an+html+form"
 ]
 +++
 

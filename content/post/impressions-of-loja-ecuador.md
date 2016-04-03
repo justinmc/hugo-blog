@@ -5,7 +5,8 @@ draft = false
 title = "Impressions of Loja, Ecuador"
 pic = ""
 aliases = [
-  "/blog/Impressions+of+Loja,+Ecuador"
+  "/blog/Impressions+of+Loja,+Ecuador",
+  "/blog/impressions+of+loja,+ecuador"
 ]
 +++
 

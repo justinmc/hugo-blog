@@ -5,7 +5,8 @@ draft = false
 title = "Installing Imagick on Ubuntu 11.10 and Using it to Dynamically Edit Images"
 pic = ""
 aliases = [
-  "/blog/Installing+Imagick+on+Ubuntu+11.10+and+Using+it+to+Dynamically+Edit+Images"
+  "/blog/Installing+Imagick+on+Ubuntu+11.10+and+Using+it+to+Dynamically+Edit+Images",
+  "/blog/installing+imagick+on+ubuntu+11.10+and+using+it+to+dynamically+edit+images"
 ]
 +++
 

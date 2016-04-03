@@ -5,7 +5,8 @@ draft = false
 title = "Sync Yourself Online"
 pic = ""
 aliases = [
-  "/blog/Sync+Yourself+Online"
+  "/blog/Sync+Yourself+Online",
+  "/blog/sync+yourself+online"
 ]
 +++
 

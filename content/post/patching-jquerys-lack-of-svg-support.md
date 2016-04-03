@@ -5,7 +5,8 @@ draft = false
 title = "Patching jQuery's Lack of SVG Support"
 pic = "/files/jquerysvg.png"
 aliases = [
-  "/blog/Patching+jQuery's+Lack+of+SVG+Support"
+  "/blog/Patching+jQuery's+Lack+of+SVG+Support",
+  "/blog/patching+jquery's+lack+of+svg+support"
 ]
 +++
 

@@ -5,7 +5,8 @@ draft = false
 title = "Getting a Distributed Static Website Running with Maelstrom"
 pic = "/files/Bittorrent-Logo-Purple.jpg"
 aliases = [
-  "/blog/Getting+a+Distributed+Static+Website+Running+with+Maelstrom"
+  "/blog/Getting+a+Distributed+Static+Website+Running+with+Maelstrom",
+  "/blog/getting+a+distributed+static+website+running+with+maelstrom"
 ]
 +++
 
