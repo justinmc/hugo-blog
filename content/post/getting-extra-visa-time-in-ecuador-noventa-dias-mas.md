@@ -2,11 +2,11 @@
 +++
 date = "2009-07-30T16:04:23-07:00"
 draft = false
-title = "Getting Extra Visa Time in Ecuador: Noventa Dí\u00adas Más"
+title = "Getting Extra Visa Time in Ecuador: Noventa Dias Mas"
 pic = ""
 aliases = [
-  "/blog/Getting+Extra+Visa+Time+in+Ecuador:+Noventa+Dí\u00adas+Más",
-  "/blog/getting+extra+visa+time+in+ecuador:+noventa+dí\u00adas+más"
+  "/blog/Getting+Extra+Visa+Time+in+Ecuador:+Noventa+Días+Más",
+  "/blog/getting+extra+visa+time+in+ecuador:+noventa+días+más"
 ]
 +++
 
