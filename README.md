@@ -5,4 +5,4 @@ My personal blog, created with hugo.  Old blog repo: https://github.com/justinmc
     hugo server --theme=hugo-theme-blueberry-detox --bind=127.0.0.1
 
 ## Build for production
-    hugo --theme=hugo-theme-blueberry-detox --baseUrl=http://justinmccandless.com/
+    hugo --theme=hugo-theme-blueberry-detox --baseUrl=https://justinmccandless.com/
