@@ -16,7 +16,7 @@ aliases = [
 
 <h2>Get Started Now</h2>
 
-<p>If you want to play around with this and see if it fits your app, <a href="http://meteorplate.meteor.com">check out the live demo</a>.  If you want to jump into the code right now, clone the <a href="https://github.com/justinmc/meteorplate">Meteorplate Github repo</a>, run <code>meteor</code>, and start hacking on your app.</p>
+<p>If you want to play around with this and see if it fits your app, <s><a href="http://meteorplate.meteor.com">check out the live demo</a></s>.  If you want to jump into the code right now, clone the <a href="https://github.com/justinmc/meteorplate">Meteorplate Github repo</a>, run <code>meteor</code>, and start hacking on your app.</p>
 
 <p><br /></p>
 
@@ -37,3 +37,6 @@ aliases = [
 <p><br /></p>
 
 <p>All of this will provide you a nice setup for a fully featured Meteor app.  To get started, clone the <a href="https://github.com/justinmc/meteorplate">Meteorplate repo</a> and start building your app quickly on top of this solid foundation.</p>
+
+#### Update
+Meteor has stopped their free hosting period, which has killed my live demo for this project.  If you want to try it, I encourage you to clone the [repository](https://github.com/justinmc/meteorplate) and run it yourself with the `meteor` command.
